@@ -7,4 +7,4 @@ Hi there! 👋 I'm Upashak
 💬 Ask me about Python, JavaScript, AI/ML, and Web Development
 ⚡ Fun fact: I love building innovative solutions that make life easier!
  Technologies & Tools
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upashak653&show_icons=true&theme=tokyonight)
