@@ -7,6 +7,8 @@ Hi there! 👋 I'm Upashak
 💬 Ask me about Python, JavaScript, AI/ML, and Web Development
 ⚡ Fun fact: I love building innovative solutions that make life easier!
  Technologies & Tools
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Upashak653&theme=tokyo-night)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upashak653&show_icons=true&theme=tokyonight)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
