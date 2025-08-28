@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Upashak
 
 ## 🚀 About Me
-- 🤖 I'm currently working on **Agentic AI systems** with **AutoGen** and **Multi-Agent frameworks**
-- 🧠 I'm currently learning **Advanced LLM Integration** and **Agentic AI Workflows**
+- 🤖 I'm currently working on **Agentic AI systems** with **AutoGen** and **LangGraph workflows**
+- 🧠 I'm currently learning **Advanced LLM Integration** and **Stateful AI Agent architectures**
 - 🌟 I specialize in **OpenAI, Gemini, DeepSeek APIs** and **Hugging Face Transformers**
-- 👯 I'm looking to collaborate on **AI Agent Systems** and **Generative AI Applications**
-- 💬 Ask me about **AutoGen, LLM APIs, Agentic AI, RAG systems, and AI-powered web apps**
-- ⚡ Fun fact: I love building autonomous AI agents that can think and act independently!
+- 👯 I'm looking to collaborate on **Multi-Agent Systems** and **Graph-based AI workflows**
+- 💬 Ask me about **AutoGen, LangGraph, LLM APIs, Agentic AI, RAG systems, and stateful AI apps**
+- ⚡ Fun fact: I love building autonomous AI agents with complex decision trees and state management!
 
 ## 🛠️ Technologies & Tools
 
@@ -19,13 +19,14 @@
 
 ### AI/ML & Frameworks
 ![AutoGen](https://img.shields.io/badge/AutoGen-FF6B6B?style=for-the-badge&logo=microsoft&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,6 +40,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Upashak653&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upashak653&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upashak653&theme=tokyonight" alt="Upashak653" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Upashak653&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 ## 🔥 Featured Projects
 
@@ -47,27 +63,28 @@
 - **Tech Stack:** AutoGen, OpenAI GPT, Web Scraping APIs
 - **Features:** Intelligent agent coordination, real-time research, automated reporting
 - **AI Models:** GPT-4, Custom agent workflows
-
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ### 🤖 [AI Content Generator](https://github.com/Upashak653/ai-content-generator)
 > Next-gen content generation using multiple LLM providers
 - **Tech Stack:** TypeScript, React, OpenAI, Gemini, DeepSeek APIs
 - **Features:** Multi-model content generation, prompt optimization, real-time streaming
 - **AI Integration:** OpenAI GPT-4, Google Gemini Pro, DeepSeek models
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ### 🧠 [Intelligent MCQ Generator](https://github.com/Upashak653/mcqgen)
 > AI-powered educational content generator with Hugging Face integration
 - **Tech Stack:** Python, Hugging Face Transformers, NLP Pipeline
 - **Features:** Context-aware question generation, difficulty scaling, bulk processing
 - **AI Models:** BERT, T5, Custom fine-tuned models
-
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ### 🔍 [Vector Database GenAI](https://github.com/Upashak653/vectorDB_GenAI)
 > Advanced RAG system with vector embeddings and semantic search
 - **Tech Stack:** Python, Vector Databases, Embeddings, LLMs
 - **Features:** Semantic search, document retrieval, context-aware responses
 - **AI Integration:** OpenAI Embeddings, Pinecone/ChromaDB, RAG pipeline
--
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ## 📈 Contribution Activity
 <div align="center">
@@ -75,19 +92,22 @@
 </div>
 
 ## 🎯 Current Focus & Goals
-- 🚀 Building sophisticated **multi-agent AI systems** with AutoGen
-- 🤝 Creating **collaborative AI agents** that work together autonomously  
+- 🚀 Building sophisticated **multi-agent AI systems** with AutoGen and LangGraph
+- 🕸️ Creating **stateful AI workflows** with complex decision trees and branching logic
+- 🤝 Developing **collaborative AI agents** that maintain context across conversations  
 - 🧠 Exploring **advanced prompt engineering** and **chain-of-thought** reasoning
-- 🔗 Integrating multiple **LLM providers** for optimal performance
-- 📚 Contributing to **open-source AI** and **agentic frameworks**
-- 🌐 Deploying **production-ready AI applications** with scalable architectures
+- 🔗 Integrating multiple **LLM providers** with intelligent routing and fallbacks
+- 📚 Contributing to **open-source AI** and **graph-based agentic frameworks**
+- 🌐 Deploying **production-ready AI applications** with persistent state management
 
 ## 💡 AI Expertise Areas
 - **🤖 Agentic AI:** AutoGen, Multi-agent systems, Agent orchestration
+- **🕸️ Graph-based AI:** LangGraph, Stateful workflows, Complex decision trees
 - **🧠 LLM Integration:** OpenAI GPT-4, Google Gemini, DeepSeek, Claude
 - **🔗 AI Frameworks:** Hugging Face Transformers, LangChain, AutoGen Studio  
 - **📊 RAG Systems:** Vector databases, semantic search, document retrieval
 - **⚡ Real-time AI:** Streaming responses, async processing, WebSocket integration
+- **🔄 State Management:** Persistent agent memory, conversation context, workflow orchestration
 
 ## 📫 Let's Connect!
 <div align="center">
