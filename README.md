@@ -1,11 +1,12 @@
 # Hi there! 👋 I'm Upashak
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **AI-powered applications** and **web development**
-- 🌱 I'm currently learning **Advanced Machine Learning** and **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, AI/ML, and Web Development**
-- ⚡ Fun fact: I love building innovative solutions that make life easier!
+- 🤖 I'm currently working on **Agentic AI systems** with **AutoGen** and **Multi-Agent frameworks**
+- 🧠 I'm currently learning **Advanced LLM Integration** and **Agentic AI Workflows**
+- 🌟 I specialize in **OpenAI, Gemini, DeepSeek APIs** and **Hugging Face Transformers**
+- 👯 I'm looking to collaborate on **AI Agent Systems** and **Generative AI Applications**
+- 💬 Ask me about **AutoGen, LLM APIs, Agentic AI, RAG systems, and AI-powered web apps**
+- ⚡ Fun fact: I love building autonomous AI agents that can think and act independently!
 
 ## 🛠️ Technologies & Tools
 
@@ -38,41 +39,78 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Upashak653&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upashak653&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upashak653&theme=tokyonight" alt="Upashak653" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Upashak653&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
 ## 🔥 Featured Projects
 
+### 🤖 [Agentic AI Research Platform](https://github.com/Upashak653/Autonomous_Web_Agent_and_Real_Time_Research)
+> Multi-agent system for autonomous web research and data collection
+- **Tech Stack:** AutoGen, OpenAI GPT, Web Scraping APIs
+- **Features:** Intelligent agent coordination, real-time research, automated reporting
+- **AI Models:** GPT-4, Custom agent workflows
+- [🌐 Live Demo](#) | [📖 Documentation](#)
+
 ### 🤖 [AI Content Generator](https://github.com/Upashak653/ai-content-generator)
-> Intelligent content generation platform powered by advanced AI models
-- **Tech Stack:** TypeScript, React, AI APIs
-- **Features:** Real-time content generation, customizable outputs
+> Next-gen content generation using multiple LLM providers
+- **Tech Stack:** TypeScript, React, OpenAI, Gemini, DeepSeek APIs
+- **Features:** Multi-model content generation, prompt optimization, real-time streaming
+- **AI Integration:** OpenAI GPT-4, Google Gemini Pro, DeepSeek models
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
-### 📝 [MCQ Generator](https://github.com/Upashak653/mcqgen)
-> Automated multiple-choice question generator for educational content
-- **Tech Stack:** Python, Jupyter Notebook, NLP
-- **Features:** Smart question generation, difficulty scaling
+### 🧠 [Intelligent MCQ Generator](https://github.com/Upashak653/mcqgen)
+> AI-powered educational content generator with Hugging Face integration
+- **Tech Stack:** Python, Hugging Face Transformers, NLP Pipeline
+- **Features:** Context-aware question generation, difficulty scaling, bulk processing
+- **AI Models:** BERT, T5, Custom fine-tuned models
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
-### 🕷️ [Autonomous Web Agent](https://github.com/Upashak653/Autonomous_Web_Agent_and_Real_Time_Research)
-> Intelligent web scraping and research automation tool
-- **Tech Stack:** Python, Web APIs, Automation
-- **Features:** Real-time data collection, automated research
+### 🔍 [Vector Database GenAI](https://github.com/Upashak653/vectorDB_GenAI)
+> Advanced RAG system with vector embeddings and semantic search
+- **Tech Stack:** Python, Vector Databases, Embeddings, LLMs
+- **Features:** Semantic search, document retrieval, context-aware responses
+- **AI Integration:** OpenAI Embeddings, Pinecone/ChromaDB, RAG pipeline
+- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ## 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Upashak653&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true" />
 </div>
 
-## 🎯 Current Goals
-- 🚀 Building more AI-powered applications
-- 📚 Contributing to open-source projects
-- 🌐 Exploring cloud technologies and deployment
-- 🤝 Collaborating with other developers
+## 🎯 Current Focus & Goals
+- 🚀 Building sophisticated **multi-agent AI systems** with AutoGen
+- 🤝 Creating **collaborative AI agents** that work together autonomously  
+- 🧠 Exploring **advanced prompt engineering** and **chain-of-thought** reasoning
+- 🔗 Integrating multiple **LLM providers** for optimal performance
+- 📚 Contributing to **open-source AI** and **agentic frameworks**
+- 🌐 Deploying **production-ready AI applications** with scalable architectures
+
+## 💡 AI Expertise Areas
+- **🤖 Agentic AI:** AutoGen, Multi-agent systems, Agent orchestration
+- **🧠 LLM Integration:** OpenAI GPT-4, Google Gemini, DeepSeek, Claude
+- **🔗 AI Frameworks:** Hugging Face Transformers, LangChain, AutoGen Studio  
+- **📊 RAG Systems:** Vector databases, semantic search, document retrieval
+- **⚡ Real-time AI:** Streaming responses, async processing, WebSocket integration
 
 ## 📫 Let's Connect!
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Upashak653)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upashak-gayen-3971a5328)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upashak1817@gmail.com)
 
 </div>
 
