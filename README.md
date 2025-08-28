@@ -41,6 +41,9 @@
 ## 📊 GitHub Stats
 
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upashak653&theme=tokyonight" alt="Upashak653" />
+</div>
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Upashak653&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
