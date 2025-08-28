@@ -39,21 +39,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Upashak653&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upashak653&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upashak653&theme=tokyonight" alt="Upashak653" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Upashak653&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
 ## 🔥 Featured Projects
 
@@ -62,28 +47,27 @@
 - **Tech Stack:** AutoGen, OpenAI GPT, Web Scraping APIs
 - **Features:** Intelligent agent coordination, real-time research, automated reporting
 - **AI Models:** GPT-4, Custom agent workflows
-- [🌐 Live Demo](#) | [📖 Documentation](#)
+
 
 ### 🤖 [AI Content Generator](https://github.com/Upashak653/ai-content-generator)
 > Next-gen content generation using multiple LLM providers
 - **Tech Stack:** TypeScript, React, OpenAI, Gemini, DeepSeek APIs
 - **Features:** Multi-model content generation, prompt optimization, real-time streaming
 - **AI Integration:** OpenAI GPT-4, Google Gemini Pro, DeepSeek models
-- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ### 🧠 [Intelligent MCQ Generator](https://github.com/Upashak653/mcqgen)
 > AI-powered educational content generator with Hugging Face integration
 - **Tech Stack:** Python, Hugging Face Transformers, NLP Pipeline
 - **Features:** Context-aware question generation, difficulty scaling, bulk processing
 - **AI Models:** BERT, T5, Custom fine-tuned models
-- [🌐 Live Demo](#) | [📖 Documentation](#)
+
 
 ### 🔍 [Vector Database GenAI](https://github.com/Upashak653/vectorDB_GenAI)
 > Advanced RAG system with vector embeddings and semantic search
 - **Tech Stack:** Python, Vector Databases, Embeddings, LLMs
 - **Features:** Semantic search, document retrieval, context-aware responses
 - **AI Integration:** OpenAI Embeddings, Pinecone/ChromaDB, RAG pipeline
-- [🌐 Live Demo](#) | [📖 Documentation](#)
+-
 
 ## 📈 Contribution Activity
 <div align="center">
