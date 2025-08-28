@@ -8,3 +8,4 @@ Hi there! 👋 I'm Upashak
 ⚡ Fun fact: I love building innovative solutions that make life easier!
  Technologies & Tools
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Upashak653&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
