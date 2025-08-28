@@ -38,17 +38,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upashak653&theme=tokyonight" alt="Upashak653" />
-</div>
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Upashak653&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
 ## 🔥 Featured Projects
 
 ### 🤖 [AI Content Generator](https://github.com/Upashak653/ai-content-generator)
