@@ -60,19 +60,16 @@
 > Intelligent content generation platform powered by advanced AI models
 - **Tech Stack:** TypeScript, React, AI APIs
 - **Features:** Real-time content generation, customizable outputs
-- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ### 📝 [MCQ Generator](https://github.com/Upashak653/mcqgen)
 > Automated multiple-choice question generator for educational content
 - **Tech Stack:** Python, Jupyter Notebook, NLP
 - **Features:** Smart question generation, difficulty scaling
-- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ### 🕷️ [Autonomous Web Agent](https://github.com/Upashak653/Autonomous_Web_Agent_and_Real_Time_Research)
 > Intelligent web scraping and research automation tool
 - **Tech Stack:** Python, Web APIs, Automation
 - **Features:** Real-time data collection, automated research
-- [🌐 Live Demo](#) | [📖 Documentation](#)
 
 ## 📈 Contribution Activity
 <div align="center">
